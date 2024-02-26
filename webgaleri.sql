@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 8.2.0, for macos13.5 (x86_64)
 --
--- Host: localhost    Database: webgaleri
+-- Host: localhost    Database: webgaleriwebfikri
 -- ------------------------------------------------------
 -- Server version	8.2.0
 
